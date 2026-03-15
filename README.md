@@ -1,4 +1,4 @@
-# CSE3150 Course Project - BGP Simulator
+# BGP Simulator
 
 This project is a high-performance BGP route propagation simulator with optional Route Origin Validation (ROV). It:
 
